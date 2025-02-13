@@ -1,0 +1,17 @@
+{
+  "name": "asap--projects-",
+  "version": "1.0.0",
+  "description": "Here's a detailed breakdown of the **Random Quote Generator** project, including requirements, implementation steps, and optional enhancements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  }
+}
